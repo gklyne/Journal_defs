@@ -1,0 +1,16 @@
+{
+  "rdfs:label": "Annalist repository at GitHub",
+  "rdfs:comment": "This GitHub repository contrains design notes, software, documentation and other resources for the Annalisrt project",
+  "coll:web_resource": "https://github.com/gklyne/annalist",
+  "annal:type_id": "Web_resource",
+  "@context": [
+    "../../coll_context.jsonld"
+  ],
+  "annal:id": "Annalist",
+  "@id": "./",
+  "@type": [
+    "coll:Web_resource",
+    "annal:EntityData"
+  ],
+  "annal:type": "coll:Web_resource"
+}

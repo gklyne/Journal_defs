@@ -1,0 +1,21 @@
+{
+  "rdfs:label": "Journal and resource definitions",
+  "rdfs:comment": "This collection defines types, views and fields that can be used to incorporate references to uploaded, imported or linked media resources into entity views, and also defines a \"Journal\" type that can be used to record (mostly) unstructured information about some process, along with associated resources.",
+  "annal:software_version": "0.1.23",
+  "annal:type_id": "_coll",
+  "annal:inherit_from": "",
+  "annal:comment": "Journal and resource definitions, edited by hand - 2016-01-04",
+  "annal:default_list": "Journal_entries",
+  "annal:default_view_entity": null,
+  "annal:default_view_type": null,
+  "@id": "../",
+  "annal:type": "annal:Collection",
+  "@context": [
+    "coll_context.jsonld"
+  ],
+  "annal:id": "Journal_defs",
+  "@type": [
+    "annal:Collection"
+  ],
+  "annal:default_view_id": null
+}

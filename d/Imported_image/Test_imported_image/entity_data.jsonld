@@ -1,0 +1,17 @@
+{
+  "rdfs:label": "Test imported image",
+  "rdfs:comment": "Test imported image",
+  "annal:type_id": "Imported_image",
+  "coll:imported_image": "https://carolanguitar.files.wordpress.com/2014/07/exhibit-a.jpg",
+  "@context": [
+    "../../coll_context.jsonld"
+  ],
+  "annal:id": "Test_imported_image",
+  "@id": "./",
+  "@type": [
+    "coll:Imported_image",
+    "coll:Included_image",
+    "annal:EntityData"
+  ],
+  "annal:type": "coll:Imported_image"
+}

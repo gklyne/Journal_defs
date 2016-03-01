@@ -1,0 +1,18 @@
+{
+  "rdfs:label": "Test linked audio",
+  "rdfs:comment": "Test linked audio",
+  "coll:audio_clip": "http://www.carmina.co.uk/sounds/bird.mp3",
+  "coll:linked_audio": "http://www.carmina.co.uk/sounds/bird.mp3",
+  "annal:type_id": "Linked_audio",
+  "@context": [
+    "../../coll_context.jsonld"
+  ],
+  "annal:id": "Test_linked_audio",
+  "@id": "./",
+  "@type": [
+    "coll:Linked_audio",
+    "coll:Included_audio",
+    "annal:EntityData"
+  ],
+  "annal:type": "coll:Linked_audio"
+}

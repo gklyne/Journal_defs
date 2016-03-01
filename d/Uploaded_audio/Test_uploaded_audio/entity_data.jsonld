@@ -1,0 +1,23 @@
+{
+  "rdfs:label": "Test uploaded audio",
+  "rdfs:comment": "Test uploaded audio\r\n\r\nPhil Langran: *You'd be right*.  See: [www.phillangranband.com/this-day-2005](http://www.phillangranband.com/this-day-2005).",
+  "coll:uploaded_audio": {
+    "upload_name": "Uploaded_audio",
+    "resource_name": "Uploaded_audio.mp3",
+    "uploaded_size": 3427963,
+    "uploaded_file": "03 You'd Be Right.mp3",
+    "resource_type": "audio/mpeg"
+  },
+  "annal:type_id": "Uploaded_audio",
+  "@context": [
+    "../../coll_context.jsonld"
+  ],
+  "annal:id": "Test_uploaded_audio",
+  "@id": "./",
+  "@type": [
+    "coll:Uploaded_audio",
+    "coll:Included_audio",
+    "annal:EntityData"
+  ],
+  "annal:type": "coll:Uploaded_audio"
+}

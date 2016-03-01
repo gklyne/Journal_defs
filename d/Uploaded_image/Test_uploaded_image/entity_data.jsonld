@@ -1,0 +1,23 @@
+{
+  "rdfs:label": "Test uploaded image",
+  "rdfs:comment": "Test uploaded image",
+  "coll:uploaded_image": {
+    "upload_name": "Uploaded_image",
+    "resource_name": "Uploaded_image.png",
+    "uploaded_size": 1558316,
+    "uploaded_file": "Maze poster.png",
+    "resource_type": "image/png"
+  },
+  "annal:type_id": "Uploaded_image",
+  "@context": [
+    "../../coll_context.jsonld"
+  ],
+  "annal:id": "Test_uploaded_image",
+  "@id": "./",
+  "@type": [
+    "coll:Uploaded_image",
+    "coll:Included_image",
+    "annal:EntityData"
+  ],
+  "annal:type": "coll:Uploaded_image"
+}

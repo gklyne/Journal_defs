@@ -28,13 +28,13 @@
   ],
   "rdfs:label": "Uploaded image view",
   "rdfs:comment": "Uploaded image view",
-  "annal:id": "Uploaded_image",
+  "annal:open_view": true,
   "annal:type_id": "_view",
   "annal:record_type": "coll:Uploaded_image",
   "@context": [
     "../../coll_context.jsonld"
   ],
-  "annal:open_view": true,
+  "annal:id": "Uploaded_image",
   "@id": "./",
   "@type": [
     "annal:View"

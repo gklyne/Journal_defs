@@ -17,6 +17,9 @@
   "annal:field_value_mode": "Value_direct",
   "annal:field_render_type": "RefMultifield",
   "annal:field_ref_field": "",
+  "@context": [
+    "../../coll_context.jsonld"
+  ],
   "annal:id": "Uploaded_audio_m",
   "@type": [
     "annal:Field"

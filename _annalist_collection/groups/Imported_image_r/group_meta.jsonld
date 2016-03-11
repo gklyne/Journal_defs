@@ -1,7 +1,7 @@
 {
   "rdfs:label": "Imported images group",
   "rdfs:comment": "Imported image group",
-  "annal:add_field": true,
+  "annal:id": "Imported_image_r",
   "annal:type_id": "_group",
   "annal:record_type": "coll:Imported_image",
   "annal:uri": "annal:group/_initial_values",
@@ -15,7 +15,7 @@
   "@context": [
     "../../coll_context.jsonld"
   ],
-  "annal:id": "Imported_image_r",
+  "annal:add_field": true,
   "@id": "./",
   "@type": [
     "annal:Field_group"

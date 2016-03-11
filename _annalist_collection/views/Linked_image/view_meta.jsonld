@@ -28,10 +28,13 @@
   ],
   "rdfs:label": "Linked image view",
   "rdfs:comment": "Linked image view",
-  "annal:open_view": true,
+  "annal:id": "Linked_image",
   "annal:type_id": "_view",
   "annal:record_type": "coll:Linked_image",
-  "annal:id": "Linked_image",
+  "@context": [
+    "../../coll_context.jsonld"
+  ],
+  "annal:open_view": true,
   "@id": "./",
   "@type": [
     "annal:View"

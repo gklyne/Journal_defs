@@ -2,6 +2,7 @@
   "rdfs:label": "Test linked image",
   "rdfs:comment": "Test linked image",
   "annal:type_id": "Linked_image",
+  "coll:included_image": "http://www.carmina.co.uk/art/homeopt.jpg",
   "coll:linked_image": "http://www.carmina.co.uk/art/homeopt.jpg",
   "@context": [
     "../../coll_context.jsonld"

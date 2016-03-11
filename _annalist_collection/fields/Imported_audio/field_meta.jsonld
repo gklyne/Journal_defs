@@ -1,7 +1,6 @@
 {
   "rdfs:label": "Imported audio clip",
   "rdfs:comment": "Imported audio clip",
-  "annal:field_ref_field": "",
   "annal:group_ref": "",
   "annal:type_id": "_field",
   "annal:placeholder": "(URL of audio to import)",
@@ -17,6 +16,7 @@
   "annal:field_value_type": "annal:Audio",
   "annal:field_value_mode": "Enum_value_mode/Value_import",
   "annal:field_render_type": "Enum_render_type/RefAudio",
+  "annal:field_ref_field": "",
   "@context": [
     "../../coll_context.jsonld"
   ],

@@ -13,13 +13,13 @@
   ],
   "rdfs:label": "Journal entry note view",
   "rdfs:comment": "View of project journal entry that displays just the title and comment as a documentation page.",
-  "annal:open_view": true,
+  "annal:id": "Journal_note_view",
   "annal:type_id": "_view",
   "annal:record_type": "coll:Journal",
   "@context": [
     "../../coll_context.jsonld"
   ],
-  "annal:id": "Journal_note_view",
+  "annal:open_view": true,
   "@id": "./",
   "@type": [
     "annal:View"

@@ -48,13 +48,13 @@
   ],
   "rdfs:label": "Journal entry view",
   "rdfs:comment": "# Journal entry\r\n\r\nThis view presents a generic journal entry, which may be useful for collecting unstructured data and associated resources about a project.  Later, when the nature and scope of the collected material is clearer, more structured descriptions may be created around the resources, possibly with references to related journal entries for background information.\r\n",
-  "annal:id": "Journal_entry",
+  "annal:open_view": true,
   "annal:type_id": "_view",
   "annal:record_type": "coll:Journal",
   "@context": [
     "../../coll_context.jsonld"
   ],
-  "annal:open_view": true,
+  "annal:id": "Journal_entry",
   "@id": "./",
   "@type": [
     "annal:View"

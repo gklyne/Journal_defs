@@ -1,7 +1,6 @@
 {
   "rdfs:label": "Included audio Id+label+audio",
   "rdfs:comment": "Reference to Id+label+audio fields of Included audio clip.",
-  "annal:field_ref_field": "",
   "annal:group_ref": "_group/Included_audio_m",
   "annal:type_id": "_field",
   "annal:placeholder": "(select audio clip)",
@@ -17,6 +16,7 @@
   "annal:field_value_type": "coll:Included_audio",
   "annal:field_value_mode": "Enum_value_mode/Value_direct",
   "annal:field_render_type": "Enum_render_type/RefMultifield",
+  "annal:field_ref_field": "",
   "@context": [
     "../../coll_context.jsonld"
   ],

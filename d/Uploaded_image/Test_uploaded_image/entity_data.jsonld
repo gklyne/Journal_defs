@@ -3,12 +3,19 @@
   "rdfs:comment": "Test uploaded image",
   "coll:uploaded_image": {
     "upload_name": "Uploaded_image",
-    "resource_name": "Uploaded_image.png",
     "uploaded_size": 1558316,
+    "resource_name": "Uploaded_image.png",
     "uploaded_file": "Maze poster.png",
     "resource_type": "image/png"
   },
   "annal:type_id": "Uploaded_image",
+  "coll:included_image": {
+    "upload_name": "Uploaded_image",
+    "uploaded_size": 1558316,
+    "resource_name": "Uploaded_image.png",
+    "uploaded_file": "Maze poster.png",
+    "resource_type": "image/png"
+  },
   "@context": [
     "../../coll_context.jsonld"
   ],

@@ -2,6 +2,13 @@
   "rdfs:label": "Test imported audio",
   "rdfs:comment": "# Test imported audio\r\n\r\n*Love Like Angels* by Carmina, imported from:\r\n[www.carmina.co.uk](http://www.carmina.co.uk/angelinfo.htm).",
   "annal:type_id": "Imported_audio",
+  "coll:included_audio": {
+    "resource_url": "http://www.carmina.co.uk/sounds/angels.mp3",
+    "resource_name": "Imported_audio.mp3",
+    "import_name": "Imported_audio",
+    "resource_type": "audio/mpeg",
+    "import_url": "http://www.carmina.co.uk/sounds/angels.mp3"
+  },
   "coll:imported_audio": {
     "resource_url": "http://www.carmina.co.uk/sounds/angels.mp3",
     "resource_name": "Imported_audio.mp3",

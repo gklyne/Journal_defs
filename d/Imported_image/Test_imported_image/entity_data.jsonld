@@ -2,6 +2,7 @@
   "rdfs:label": "Test imported image",
   "rdfs:comment": "Test imported image",
   "annal:type_id": "Imported_image",
+  "coll:included_image": "https://carolanguitar.files.wordpress.com/2014/07/exhibit-a.jpg",
   "coll:imported_image": "https://carolanguitar.files.wordpress.com/2014/07/exhibit-a.jpg",
   "@context": [
     "../../coll_context.jsonld"

@@ -10,6 +10,9 @@
       "annal:field_id": "_field/Journal_ref"
     }
   ],
+  "@context": [
+    "../../coll_context.jsonld"
+  ],
   "annal:id": "Journal_ref",
   "@id": "./",
   "@type": [

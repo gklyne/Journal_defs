@@ -23,13 +23,13 @@
   ],
   "rdfs:label": "Included image",
   "rdfs:comment": "Included image",
-  "annal:open_view": true,
+  "annal:id": "Included_image",
   "annal:type_id": "_view",
   "annal:record_type": "coll:Included_image",
   "@context": [
     "../../coll_context.jsonld"
   ],
-  "annal:id": "Included_image",
+  "annal:open_view": true,
   "@id": "./",
   "@type": [
     "annal:View"

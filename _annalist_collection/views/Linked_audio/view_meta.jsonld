@@ -28,10 +28,13 @@
   ],
   "rdfs:label": "Linked audio view",
   "rdfs:comment": "Linked audio view",
-  "annal:id": "Linked_audio",
+  "annal:open_view": true,
   "annal:type_id": "_view",
   "annal:record_type": "coll:Linked_audio",
-  "annal:open_view": true,
+  "@context": [
+    "../../coll_context.jsonld"
+  ],
+  "annal:id": "Linked_audio",
   "@id": "./",
   "@type": [
     "annal:View"

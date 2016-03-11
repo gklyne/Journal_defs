@@ -28,13 +28,13 @@
   ],
   "rdfs:label": "Web resource",
   "rdfs:comment": "Information about a web resource, with link.",
-  "annal:open_view": true,
+  "annal:id": "Web_resource",
   "annal:type_id": "_view",
   "annal:record_type": "coll:Web_resource",
   "@context": [
     "../../coll_context.jsonld"
   ],
-  "annal:id": "Web_resource",
+  "annal:open_view": true,
   "@id": "./",
   "@type": [
     "annal:View"

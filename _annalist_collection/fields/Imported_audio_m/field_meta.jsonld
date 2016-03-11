@@ -1,7 +1,6 @@
 {
   "rdfs:label": "Imported audio Id+label",
   "rdfs:comment": "Reference to imported audio clip fields",
-  "annal:field_ref_field": "",
   "annal:group_ref": "_group/Imported_image_m",
   "annal:type_id": "_field",
   "annal:placeholder": "(select image)",
@@ -17,6 +16,7 @@
   "annal:field_value_type": "annal:Field_group",
   "annal:field_value_mode": "Enum_value_mode/Value_direct",
   "annal:field_render_type": "Enum_render_type/RefMultifield",
+  "annal:field_ref_field": "",
   "@context": [
     "../../coll_context.jsonld"
   ],

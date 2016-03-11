@@ -10,6 +10,9 @@
       "annal:field_id": "See_also"
     }
   ],
+  "@context": [
+    "../../coll_context.jsonld"
+  ],
   "annal:id": "See_also_r",
   "@id": "./",
   "@type": [

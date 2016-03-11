@@ -28,13 +28,13 @@
   ],
   "rdfs:label": "Imported image view",
   "rdfs:comment": "# Imported image view\r\n\r\nPresents an entity containing an image imported from the web, along with Id, type, label and description.\r\n",
-  "annal:id": "Imported_image",
+  "annal:open_view": true,
   "annal:type_id": "_view",
   "annal:record_type": "coll:Imported_image",
   "@context": [
     "../../coll_context.jsonld"
   ],
-  "annal:open_view": true,
+  "annal:id": "Imported_image",
   "@id": "./",
   "@type": [
     "annal:View"

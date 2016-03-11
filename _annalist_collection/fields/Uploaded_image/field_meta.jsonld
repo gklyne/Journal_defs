@@ -17,6 +17,9 @@
   "annal:field_value_mode": "Value_upload",
   "annal:field_render_type": "RefImage",
   "annal:field_ref_field": "",
+  "@context": [
+    "../../coll_context.jsonld"
+  ],
   "annal:id": "Uploaded_image",
   "@type": [
     "annal:Field"

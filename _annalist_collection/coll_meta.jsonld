@@ -6,10 +6,10 @@
   "annal:inherit_from": "",
   "annal:comment": "Journal and resource definitions, edited by hand - 2016-01-04",
   "annal:default_list": "Journal_entries",
-  "annal:default_view_entity": "Entity_id",
-  "annal:default_view_type": "_field",
+  "annal:default_view_entity": "01_journal_resources",
+  "annal:default_view_type": "Journal",
   "@id": "../",
-  "annal:type": "annal:Collection",
+  "annal:default_view_id": "Journal_entry",
   "@context": [
     "coll_context.jsonld"
   ],
@@ -17,5 +17,5 @@
   "@type": [
     "annal:Collection"
   ],
-  "annal:default_view_id": "Field_view"
+  "annal:type": "annal:Collection"
 }

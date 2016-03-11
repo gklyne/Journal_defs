@@ -4,6 +4,7 @@
   "coll:audio_clip": "http://www.carmina.co.uk/sounds/bird.mp3",
   "coll:linked_audio": "http://www.carmina.co.uk/sounds/bird.mp3",
   "annal:type_id": "Linked_audio",
+  "coll:included_audio": "http://www.carmina.co.uk/sounds/bird.mp3",
   "@context": [
     "../../coll_context.jsonld"
   ],

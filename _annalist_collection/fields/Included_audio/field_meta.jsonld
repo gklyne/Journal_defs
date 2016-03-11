@@ -1,7 +1,6 @@
 {
   "rdfs:label": "Included audio",
   "rdfs:comment": "Included audio clip (linked, imported or uploaded)",
-  "annal:field_ref_field": "",
   "annal:group_ref": "",
   "annal:type_id": "_field",
   "annal:placeholder": "(Audio reference - edit via linked, imported or uploaded audio view)",
@@ -14,9 +13,10 @@
   "annal:field_placement": "small:0,12",
   "annal:repeat_label_add": "",
   "annal:default_value": "",
-  "annal:field_value_type": "coll:Included_audio",
+  "annal:field_value_type": "annal:Audio",
   "annal:field_value_mode": "Enum_value_mode/Value_direct",
   "annal:field_render_type": "Enum_render_type/RefAudio",
+  "annal:field_ref_field": "",
   "@context": [
     "../../coll_context.jsonld"
   ],

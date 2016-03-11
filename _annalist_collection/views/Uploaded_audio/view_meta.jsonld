@@ -3,35 +3,38 @@
     {
       "annal:property_uri": "",
       "annal:field_placement": "small:0,12;medium:0,6",
-      "annal:field_id": "Entity_id"
+      "annal:field_id": "_field/Entity_id"
     },
     {
       "annal:property_uri": "",
       "annal:field_placement": "small:0,12;medium:6,6",
-      "annal:field_id": "Entity_type"
+      "annal:field_id": "_field/Entity_type"
     },
     {
       "annal:property_uri": "",
       "annal:field_placement": "small:0,12",
-      "annal:field_id": "Entity_label"
+      "annal:field_id": "_field/Entity_label"
     },
     {
       "annal:property_uri": "",
       "annal:field_placement": "small:0,12",
-      "annal:field_id": "Entity_comment"
+      "annal:field_id": "_field/Entity_comment"
     },
     {
       "annal:property_uri": "",
       "annal:field_placement": "small:0,12",
-      "annal:field_id": "Uploaded_audio"
+      "annal:field_id": "_field/Uploaded_audio"
     }
   ],
   "rdfs:label": "Uploaded audio view",
   "rdfs:comment": "Uploaded audio view",
-  "annal:id": "Uploaded_audio",
-  "annal:type_id": "_view",
-  "annal:record_type": "coll:audio_clip",
   "annal:open_view": true,
+  "annal:type_id": "_view",
+  "annal:record_type": "coll:Uploaded_audio",
+  "@context": [
+    "../../coll_context.jsonld"
+  ],
+  "annal:id": "Uploaded_audio",
   "@id": "./",
   "@type": [
     "annal:View"
